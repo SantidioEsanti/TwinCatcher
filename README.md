@@ -25,10 +25,18 @@ TwinCatcher находит одинаковые файлы по размеру �
 
 ### Запуск из исходников
 ```bash
-git clone https://github.com/ВАШ_НИК/TwinCatcher.git
+git clone https://github.com/SantidioEsanti/TwinCatcher.git
 cd TwinCatcher
 pip install pillow send2trash
 python dup_finder.py
 ---
+## ☕ Поддержать проект / Support the project
 
-###☕ **Поддержать автора / Support the author:** [boosty.to/santidioesanti](https://boosty.to/santidioesanti)
+**RU:** Если TwinCatcher помог вам навести порядок в файлах — вы можете угостить автора чашкой кофе. Спасибо!
+
+**EN:** If TwinCatcher helped you clean up your files — you can buy the author a coffee. Thank you!
+
+[![Поддержать на Boosty](https://img.shields.io/badge/Boosty-Поддержать-orange?logo=boosty&logoColor=white)](https://boosty.to/santidioesanti)
+[![Support on Boosty](https://img.shields.io/badge/Boosty-Support-orange?logo=boosty&logoColor=white)](https://boosty.to/santidioesanti)
+
+👉 **https://boosty.to/santidioesanti**
