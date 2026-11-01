@@ -31,4 +31,4 @@ pip install pillow send2trash
 python dup_finder.py
 ---
 
-☕ **Поддержать автора / Support the author:** [boosty.to/santidioesanti](https://boosty.to/santidioesanti)
+###☕ **Поддержать автора / Support the author:** [boosty.to/santidioesanti](https://boosty.to/santidioesanti)
